@@ -16,7 +16,7 @@ class ProductManager {
             price,
             thumbnail,
             code,
-            stock 
+            stock,
         }
         if (this.products.find((newProduct) => newProduct.code === product.code)) {
             console.log("Error, Este producto ya esta dentro del arreglo")
