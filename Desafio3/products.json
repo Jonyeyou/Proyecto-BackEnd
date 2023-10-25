@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "title":"Producto 1",
+        "description":"este es el 1 producto",
+        "price":400,"thumbnail":"sin imagen",
+        "code":"1787",
+        "stock":7
+    },
+
+    {
+        "id":2,
+        "title":"Producto 2",
+        "description":"este es el 2 producto",
+        "price":900,
+        "thumbnail":"sin imagen",
+        "code":"1234",
+        "stock":50
+    },
+
+    {
+        "id":3,
+        "title":"Producto 3",
+        "description":"este es el 3 producto",
+        "price":399,
+        "thumbnail":"sin imagen",
+        "code":"1678",
+        "stock":23
+    },
+
+    {
+        "id":4,
+        "title":"Producto 4",
+        "description":"este es el 4 producto",
+        "price":2600,
+        "thumbnail":"sin imagen",
+        "code":"1954",
+        "stock":45
+    },
+
+    {
+        "id":5,
+        "title":"Producto 5",
+        "description":"este es el 5 producto",
+        "price":3500,
+        "thumbnail":"sin imagen",
+        "code":"1546",
+        "stock":3
+    },
+
+    {
+        "id":6,
+        "title":"Producto 6",
+        "description":"este es el 6 producto",
+        "price":200,
+        "thumbnail":"sin imagen",
+        "code":"1067",
+        "stock":28
+    },
+
+    {
+        "id":7,
+        "title":"Producto 7",
+        "description":"este es el 7 producto",
+        "price":11500,
+        "thumbnail":"sin imagen",
+        "code":"5639",
+        "stock":48
+    },
+
+    {
+        "id":8,
+        "title":"Producto 8",
+        "description":"este es el 8 producto",
+        "price":150,
+        "thumbnail":"sin imagen",
+        "code":"0945",
+        "stock":72
+    },
+
+    {
+        "id":9,
+        "title":"Producto 9",
+        "description":"este es el 9 producto",
+        "price":370,
+        "thumbnail":"sin imagen",
+        "code":"2756",
+        "stock":17
+    },
+
+    {
+        "id":10,
+        "title":"Producto 10",
+        "description":"este es el 10 producto",
+        "price":420,
+        "thumbnail":"sin imagen",
+        "code":"9384",
+        "stock":32
+    }
+
+]
